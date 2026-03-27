@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:satyabratan2003@gmail.com">📧 Email</a> ·
-  <a href="www.linkedin.com/in/satyabrata-nayak163">💼 LinkedIn</a> ·
+  <a href="[www.linkedin.com/in/satyabrata-nayak163](https://www.linkedin.com/in/satyabrata-nayak163/)">💼 LinkedIn</a> ·
   <a href="https://nayak-satyabrata.github.io/paws-and-claws">🌐 Live Project</a>
 </p>
 
