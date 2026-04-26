@@ -87,13 +87,6 @@ I'm a Computer Science student passionate about building real-world software tha
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayak-Satyabrata&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayak-Satyabrata&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
-
-<p align="center">
   <i>Open to full-time roles and internships in Software Development, Full-Stack, and Cloud. Let's connect!</i><br/>
   <a href="mailto:satyabratan2003@gmail.com">satyabratan2003@gmail.com</a>
 </p>
